@@ -1,0 +1,55 @@
+RID: XYAB1FFC114	
+Job Title:NfL-GFAP				
+Program: BLASTP 
+Query: unnamed protein product ID: lcl|Query_7464113(amino acid) Length: 543
+Subject:None ID: lcl|Query_7464115(amino acid) Length: 432
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+unnamed protein product                                                                           0          303    303   68%   4e-102 45.50  432        Query_7464115    
+
+Alignments:
+
+>unnamed protein product
+Sequence ID: Query_7464115 Length: 432
+Range 1: 4 to 379
+
+Score:303 bits(775), Expect:4e-102, 
+Method:Compositional matrix adjust., 
+Identities:172/378(46%), Positives:251/378(66%), Gaps:7/378(1%)
+
+Query  30   RSGYSTARSAYSSYSAPVSSSLSVRRSYSS----SSGSLMPSLEN-LDLSQVAAISNDLK  84
+            R   S AR +Y S    +   L+  R        S   + P L   +D S   A++   K
+Sbjct  4    RRITSAARRSYVSSGEMMVGGLAPGRRLGPGTRLSLARMPPPLPTRVDFSLAGALNAGFK  63
+
+Query  85   SIRTQEKAQLQDLNDRFASFIERVHELEQQNKVLEAELLVLRQKHSEPSRFRALYEQEIR  144
+              R  E+A++ +LNDRFAS+IE+V  LEQQNK L AEL  LR K  EP++   +Y+ E+R
+Sbjct  64   ETRASERAEMMELNDRFASYIEKVRFLEQQNKALAAELNQLRAK--EPTKLADVYQAELR  121
+
+Query  145  DLRLAAEDATNEKQALQGEREGLEETLRNLQARYEEEVLSREDAEGRLMEARKGADEAAL  204
+            +LRL  +  T     L+ ER+ L + L  ++ + ++E   R +AE  L   R+ ADEA L
+Sbjct  122  ELRLRLDQLTANSARLEVERDNLAQDLATVRQKLQDETNLRLEAENNLAAYRQEADEATL  181
+
+Query  205  ARAELEKRIDSLMDEISFLKKVHEEEIAELQAQIQYAQISVEMDVTKPDLSAALKDIRAQ  264
+            AR +LE++I+SL +EI FL+K+HEEE+ ELQ Q+   Q+ VE+DV KPDL+AALK+IR Q
+Sbjct  182  ARLDLERKIESLEEEIRFLRKIHEEEVRELQEQLARQQVHVELDVAKPDLTAALKEIRTQ  241
+
+Query  265  YEKLAAKNMQNAEEWFKSRFTVLTESAAKNTDAVRAAKDEVSESRRLLKAKTLEIEACRG  324
+            YE +A+ NM  AEEW++S+F  LT++AA+N + +R AK E ++ RR L++ T ++E+ RG
+Sbjct  242  YEAMASSNMHEAEEWYRSKFADLTDAAARNAELLRQAKHEANDYRRQLQSLTCDLESLRG  301
+
+Query  325  MNEALEKQLQELEDKQNADISAMQDTINKLENELRTTKSEMARYLKEYQDLLNVKMALDI  384
+             NE+LE+Q++E E++   + ++ Q+ + +LE E ++ K EMAR+L+EYQDLLNVK+ALDI
+Sbjct  302  TNESLERQMREQEERHVREAASYQEALARLEEEGQSLKDEMARHLQEYQDLLNVKLALDI  361
+
+Query  385  EIAAYRKLLEGEETRLSF  402
+            EIA YRKLLEGEE R++ 
+Sbjct  362  EIATYRKLLEGEENRITI  379
+
+
+
+
+		
+
+
